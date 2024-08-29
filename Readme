@@ -1,0 +1,28 @@
+Enunciado do Projeto
+Título: Calculadora de Perímetro de Retângulo
+
+Descrição:
+Desenvolva um programa em Python que define uma função para calcular o perímetro de um retângulo. O programa deve solicitar ao usuário a largura e a altura do retângulo, calcular o perímetro utilizando a função definida e exibir o resultado com duas casas decimais.
+
+Requisitos:
+
+Definir uma função calcular_perimetro que receba a largura e a altura do retângulo como argumentos e retorne o perímetro.
+Solicitar ao usuário que insira a largura e a altura do retângulo.
+Utilizar a função calcular_perimetro para calcular o perímetro com base nos valores fornecidos.
+Exibir o perímetro calculado com duas casas decimais.
+
+# Calculadora de Perímetro de Retângulo
+
+## Descrição
+Este projeto implementa uma função em Python para calcular o perímetro de um retângulo. O programa solicita ao usuário a largura e a altura do retângulo, utiliza a função para calcular o perímetro e exibe o resultado com duas casas decimais.
+
+## Funcionalidades
+- Leitura da largura e altura do retângulo fornecidas pelo usuário.
+- Definição de uma função que calcula o perímetro do retângulo.
+- Cálculo e exibição do perímetro com duas casas decimais.
+
+## Como Executar
+1. Clone o repositório para sua máquina local.
+   ```bash
+   git clone https://github.com/seu_usuario/calculadora-perimetro-retangulo.git
+
